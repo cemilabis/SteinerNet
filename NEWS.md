@@ -1,5 +1,9 @@
 # News
 
+### v3.0.2
+
+* minor updates
+
 ### v3.0.1
 
 * If vertices of input graph of `steinertree` function has a `name` attribute, vertices of the output graph won't have `realname` attribute. The original names will be still at `name` attribute.
@@ -13,4 +17,4 @@
 
 ### v2.0
 
-Support of igraph graphs is added.
+Support of igraph is added.
